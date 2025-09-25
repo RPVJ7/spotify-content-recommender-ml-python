@@ -35,6 +35,9 @@ The notebook walks through the complete process of building a recommender:
 
 ## 📂 Repository Structure
 
+├── README.md # Project documentation
+├── Spotify_Recommender_GitHub.ipynb # Main Jupyter Notebook with recommender system
+└── kaggle_spotify_dataset.csv # Kaggle dataset containing audio features
 
 ## Install dependencies
 
